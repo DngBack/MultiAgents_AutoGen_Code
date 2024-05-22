@@ -1,3 +1,2 @@
-pyautogen ==0.2.27
-gradio ==4.29.0
-ollama
+pyautogen==0.2.27
+gradio==4.29.0
